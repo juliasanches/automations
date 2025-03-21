@@ -26,7 +26,7 @@ O projeto está estruturado da seguinte maneira:
 
 Clone este repositório e execute o script pseudoransomware.py. 
 
-`` git clone https://github.com/juliasanches/ransomware-research.git``
+`` git clone https://github.com/juliasanches/ransomware-lab.git``
 
 ``cd ransomwware-lab``
 
